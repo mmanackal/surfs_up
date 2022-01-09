@@ -1,7 +1,6 @@
 # Surf's Up Summary
 
 ## Analysis
-The written analysis has the following:
 We were asked to provide one last analysis for W.Avy before moving forward with the ice cream shop project. We were asked to analyze
 temperature data for the months of June and December in Oahu to see if the ice cream shop would be viable year round. Based on our analysis
 the temperature variation between June and December is minimal. The mean is 71 degrees in December and 73 degrees in June. We graphed the temperatures in
