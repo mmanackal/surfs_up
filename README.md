@@ -1,26 +1,25 @@
 # Surf's Up Summary
 
-##Analysis (14 points)
+## Analysis
 The written analysis has the following:
 We were asked to provide one last analysis for W.Avy before moving forward with the ice cream shop project. We were asked to analyze
 temperature data for the months of June and December in Oahu to see if the ice cream shop would be viable year round. Based on our analysis
 the temperature variation between June and December is minimal. The mean is 71 degrees in December and 73 degrees in June. We graphed the temperatures in
 order to visualize the variation within these months as well.  
 
-##Results:
+## Results:
 As you can see with the summary statistics, the temperature variation is negligible. The graph's allowed us to see the distribution better and you
 can see that the temperatures in June are slightly warmer. The highest ranges in June are between 73 and 78 degrees while in December they are between 67 and 75
 degrees. June also has more frequent occurences of reaching 80 degrees which is ideal weather for cold ice cream to cool down. 
-####Summary Statistics for June
-![Image]
-![Image]
-####Summary Statistics for December
-![Image]
+#### Summary Statistics for June
+![Image](https://github.com/mmanackal/surfs_up/blob/main/Resources/June_Temp_Summary.PNG)
+#### Summary Statistics for December
+![Image](https://github.com/mmanackal/surfs_up/blob/main/Resources/Dec_Temp_Summary.PNG)
 
-####Graphical Representations:
-![Image]
-
-##Summary:
+#### Graphical Representations:
+![Image](https://github.com/mmanackal/surfs_up/blob/main/Resources/June_Graph.PNG)
+![Image](https://github.com/mmanackal/surfs_up/blob/main/Resources/December_Graph.PNG)
+## Summary:
 One noticeable difference in the summary statistics is the count of temperature readings in December is 183 less than that of June. Perhaps having those readings may
 yield a higher temperature mean (warmer) or lower mean (cooler). It would be good to investigate why there are fewer readings in December and if they are retrievable. 
 Cooler temperatures would mean that the shop would attract fewer customers in December. It would also be a good idea to pull November, January, and February
